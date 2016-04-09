@@ -1,0 +1,34 @@
+_repo: The-Turn-of-the-Screw_209
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_bookshelf:
+- Horror
+- Opera
+- Best Books Ever Listings
+- Gothic Fiction
+gutenberg_issued: '1995-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '209'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Children -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: The Turn of the Screw
+url: http://www.gutenberg.org/ebooks/209
